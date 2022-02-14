@@ -2,9 +2,9 @@
 starter template
 ```
 npm install
-gen init
+npm run gen init
 npm install
-gen new moduleName
-gen controller moduleName controllerName
+npm run gen new moduleName
+npm run gen controller moduleName controllerName
 jest
 ```
