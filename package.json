@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@benmeddah/genmodule": "^1.1.5"
+    "@benmeddah/genmodule": "^1.1.6"
   },
   "scripts": {
     "gen": "gen"
